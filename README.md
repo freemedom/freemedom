@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api/top-langs?username=freemedom)]()
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=freemedom)]()
+-->
+
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=freemedom&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
